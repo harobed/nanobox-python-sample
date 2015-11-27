@@ -1,3 +1,3 @@
 build:
   runtime: python27
-  exec: "python app.py"
+  exec: "./env/bin/python app.py"
