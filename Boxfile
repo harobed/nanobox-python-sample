@@ -1,3 +1,4 @@
 build:
   runtime: python27
+web1:
   exec: "./env/bin/python app.py"
